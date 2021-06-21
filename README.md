@@ -12,7 +12,7 @@ The beauty behind learning quantum information is that on an elementary level, v
  
  - Numpy
  - Sympy
- - <a href="https://pypi.org/project/truth-table-generator/">truth-table-generator<\a>
+ - <a href="https://pypi.org/project/truth-table-generator/">truth-table-generator</a>
 
 
 ## Lecture 1:
