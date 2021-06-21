@@ -17,24 +17,25 @@ The beauty behind learning quantum information is that on an elementary level, v
 
 ## Lecture 1:
 
-(Not yet available)
+(Content not yet available. Should be available on Monday, July 5th)
 
 ## Lecture 2:
 
-(Not yet available)
+(Content not yet available. Should be available on Tuesday, July 6th)
 
 ## Lecture 3:
 
-(Not yet available)
+(Content not yet available. Should be available on Wednesday, July 7th)
 
 ## Lecture 4:
 
-(Not yet available)
+(Content not yet available. Should be available on Thursday, July 8th)
+
 ## Lecture 5:
 
-(Not yet available)
+(Content not yet available. Should be available on Friday, July 9th)
 
 ## Hackathon:
 
-(Not yet available)
+(Content not yet available. Should be available on Saturday, July 10th)
 
