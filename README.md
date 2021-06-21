@@ -10,8 +10,8 @@ The beauty behind learning quantum information is that on an elementary level, v
  
  ### Module Requirements:
  
- - Numpy
- - Sympy
+ - <a href="https://numpy.org">Numpy</a>
+ - <a href="https://www.sympy.org/en/index.html"> Sympy </a>
  - <a href="https://pypi.org/project/truth-table-generator/">truth-table-generator</a>
 
 
