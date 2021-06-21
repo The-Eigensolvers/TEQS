@@ -7,6 +7,12 @@ The beauty behind learning quantum information is that on an elementary level, v
  - Chapter 1 is on vectors and how they are used to represent the state of a qubit
  - Chapter 2 is on operators and how they are used to manipulate the state of a qubit
  - Chapter 3 is on Classical Information and Boolean Logic
+ 
+ ### Module Requirements:
+ 
+ - Numpy
+ - Sympy
+ - truth-table-generator
 
 
 ## Lecture 1:
