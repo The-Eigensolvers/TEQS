@@ -1,0 +1,2 @@
+# TESS-Prerequisites
+The beauty behind learning quantum information is that on an elementary level, very few pre-requisites are required. At TESS, the course is designed in a way where the only pre-requisites required are basic linear algebra and classical information processing. To insure that everyone has those under their belts before attending the crash course, we made those three notebooks which we encourage everyone to read and solve the exercises. 
