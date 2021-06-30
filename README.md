@@ -36,7 +36,7 @@ One of the beauties behind learning quantum computing is that on an elementary l
 
 (Content not yet available. Should be available on Friday, July 9th)
 
-## Hackathon
+## Hackathon!
 
 (Content not yet available. Should be available on Saturday, July 10th)
 
