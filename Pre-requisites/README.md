@@ -7,3 +7,5 @@ The following topics are covered:
  - [Chapter 3](https://github.com/The-Eigensolvers/TEQS/blob/main/Pre-requisites/Chapter%203%20-%20Classical%20Computation%20and%20Logic.ipynb) is on Classical Information and Boolean Logic
 
 If you have any questions about the content in the notebooks, make sure to reach out to mentors in the Discord server. They will be happy to help you go over any concept you may find difficult. 
+
+**Note:** because GitHub has some issues rendering the equations we have included in these notebooks (mainly the second one), we advise that you clone/download this repository and run the files locally or in the [IBM Quantum Lab](https://quantum-computing.ibm.com/lab). This way, you will see the equations as intended; and you will be able to play around with the code we wrote in the notebooks. 
