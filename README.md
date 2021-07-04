@@ -16,23 +16,23 @@ One of the beauties behind learning quantum computing is that on an elementary l
  - [truth-table-generator](https://pypi.org/project/truth-table-generator/)
 
 ## Lectures
-### Lecture 1:
+### Day 1:
 
 (Content not yet available. Should be available on Monday, July 5th)
 
-### Lecture 2:
+### Day 2:
 
 (Content not yet available. Should be available on Tuesday, July 6th)
 
-### Lecture 3:
+### Day 3:
 
 (Content not yet available. Should be available on Wednesday, July 7th)
 
-### Lecture 4:
+### Day 4:
 
 (Content not yet available. Should be available on Thursday, July 8th)
 
-### Lecture 5:
+### Day 5:
 
 (Content not yet available. Should be available on Friday, July 9th)
 
