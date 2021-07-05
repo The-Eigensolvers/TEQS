@@ -18,7 +18,7 @@ One of the beauties behind learning quantum computing is that on an elementary l
 ## Lectures
 ### Day 1:
 
-(Content not yet available. Should be available on Monday, July 5th)
+Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%201).
 
 ### Day 2:
 
