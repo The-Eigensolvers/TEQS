@@ -22,7 +22,7 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
 
 ### Day 2:
 
-(Content not yet available. Should be available on Tuesday, July 6th)
+Reduced quantum postulates from a quantum computing perspective and introduction to basic quantum circuits and simulators using Qiskit. Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%202).
 
 ### Day 3:
 
