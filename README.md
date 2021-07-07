@@ -20,9 +20,14 @@ One of the beauties behind learning quantum computing is that on an elementary l
 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%201).
 
+Lecture 1: https://youtu.be/ifPodLNDvcQ
+
 ### Day 2:
 
 Reduced quantum postulates from a quantum computing perspective and introduction to basic quantum circuits and simulators using Qiskit. Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%202).
+
+Lecture 2a: https://youtu.be/aAOFSlKUcUU
+Lecture 2b: https://youtu.be/5SrGEiFyudQ
 
 ### Day 3:
 
