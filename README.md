@@ -32,7 +32,9 @@ Reduced quantum postulates from a quantum computing perspective and introduction
 
 ### Day 3:
 
-(Content not yet available. Should be available on Wednesday, July 7th)
+The no-cloning theorem, quantum teleportation protocol, superdense coding, and BB84 cryptographic protocol. Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%203).
+
+- Lecture 3: https://youtu.be/TtnaWtHpjOs
 
 ### Day 4:
 
