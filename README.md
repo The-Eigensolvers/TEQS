@@ -27,6 +27,7 @@ Lecture 1: https://youtu.be/ifPodLNDvcQ
 Reduced quantum postulates from a quantum computing perspective and introduction to basic quantum circuits and simulators using Qiskit. Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%202).
 
 Lecture 2a: https://youtu.be/aAOFSlKUcUU
+
 Lecture 2b: https://youtu.be/5SrGEiFyudQ
 
 ### Day 3:
