@@ -39,7 +39,7 @@ The no-cloning theorem, quantum teleportation protocol, superdense coding, and B
 
 ### Day 4:
 
-(Content not yet available. Should be available on Thursday, July 8th)
+Quantum oracles, Deutsch's algorithm and how to construct a quantum circuit that implements them. Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%204).
 
 ### Day 5:
 
