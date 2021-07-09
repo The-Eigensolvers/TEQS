@@ -15,4 +15,7 @@ There are also prizes for the winners of the hackathon:
 
 The ranking will be based on the weighted cost of the solutions for problem 3 and problem 4; as defined in the notebook. 
 
+To submit your solutions, fill out the form below, with the code that you write for each problem.
+https://forms.gle/KkA6gBbhrCZpWgnX8
+
 The deadline for submission is Sunday (July 11th) 7pm Indian Standard Time. Remember, the ultimate goal is to have fun and learn some quantum computing while you're at it. All the best!
