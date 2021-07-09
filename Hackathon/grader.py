@@ -73,7 +73,7 @@ def grader3(circ):
     qc = qc.compose(circ, range(no_qubits))
     qc.measure(list(range(5)), list(range(5)))
 
-    out_list.append(list(sim(qc).keys())[0])
+    out_list.append(list(simul(qc).keys())[0])
 
     for mask in mask_list[1:]:
         ind = ind_list[np.array(mask)]
@@ -83,7 +83,7 @@ def grader3(circ):
         qc = qc.compose(circ, range(no_qubits))
 
         qc.measure(list(range(5)), list(range(5)))
-        out_list.append(list(sim(qc).keys())[0])
+        out_list.append(list(simul(qc).keys())[0])
 
     if np.all(np.array(out_list) == np.array(correct_list)):
         
