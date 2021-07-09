@@ -25,6 +25,14 @@ H = 1/np.sqrt(2)*np.array([[1, 1], [1, -1]])
 U = lambda theta, phi, lam: np.array([[np.cos(theta/2), -np.exp(1j*lam)*np.sin(theta/2)],
                                        [np.exp(1j*phi)*np.sin(theta/2), np.exp(1j*lam + 1j*phi)*np.cos(theta/2)]])
 
+def simul(circ):
+
+    simulator = Aer.get_backend('qasm_simulator')
+    results = execute(circ, simulator, shots = 1).result()
+    counts = results.get_counts(circ)
+    
+    return counts
+
 def dagger(mat):
     # Calculate Hermitian conjugate
     mat_dagger = np.conj(mat.T)
