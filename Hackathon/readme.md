@@ -1,7 +1,7 @@
 
 # Hackathon
 
-Welcome to the Eigensolvers Quantum School Hackathon. In the notebook found in this folder there are 4 problems covering all the materials covered in the lectures. These problems have been designed for people coming from all different levels of experience in quantum computing. You will get a different certificate level based on which problems you completed:
+Welcome to the Eigensolvers Quantum School Hackathon. In the notebook found in this folder there are 4 problems covering all the materials covered in the lectures. These problems have been designed for people coming from all different levels of experience in quantum computing. You will get a different certificate level based on the problems you completed:
 
 - First two: Beginner
 - First three: Intermediate
