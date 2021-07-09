@@ -92,7 +92,7 @@ def grader3(circ):
         no_cx = circ.count_ops()['cx']
         
 
-        cost = 20*(no_q - 5) + 10*no_cx + no_u
+        cost = 20*(no_qubits - 5) + 10*no_cx + no_u
         
         print(f"Congratulations \U0001F389! Your answer is correct.  \n\nYour cost is {cost}.\n\nFeel free to submit your answer")
     else:
