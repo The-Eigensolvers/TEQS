@@ -46,7 +46,10 @@ Quantum oracles, Deutsch's algorithm and how to construct a quantum circuit that
 
 ### Day 5:
 
-(Content not yet available. Should be available on Friday, July 9th)
+IBM Quantum Fun Day! Introduction to RasQberry and Question and Answer Panel.  Content available [here](https://github.com/The-Eigensolvers/TEQS/tree/main/Day%204).
+
+- Lecture 5: https://youtu.be/WE2gkWLDBEw
+- QnA Panel: https://youtu.be/mGUG4ZfLqUg
 
 ## Hackathon!
 
