@@ -31,16 +31,16 @@ def grader1b(A, B, C, D, E, F, H, I, J, K, L, M):
 ### 2
 def grader2(circ):
     
-    correct_mat = np.array([[0, 0, 0, 0, 1/np.sqrt(2), 1/np.sqrt(2), 0, 0],
-          [0, 0, 1/np.sqrt(2), -1/np.sqrt(2), 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 1/np.sqrt(2), 1/np.sqrt(2)],
-          [1/np.sqrt(2), -1/np.sqrt(2), 0, 0, 0, 0, 0, 0],
-          [1/np.sqrt(2), 1/np.sqrt(2), 0, 0, 0, 0, 0, 0],
-          [0, 0, 0, 0, 0, 0, 1/np.sqrt(2), -1/np.sqrt(2)],
-          [0, 0, 1/np.sqrt(2), 1/np.sqrt(2), 0, 0, 0, 0],
-          [0, 0, 0, 0, 1/np.sqrt(2), -1/np.sqrt(2), 0, 0]])
+    correct_mat = np.array([[0],
+                            [0],
+                            [0],
+                            [1/np.sqrt(2)],
+                            [1/np.sqrt(2)],
+                            [0],
+                            [0],
+                            [0]])
     
-    circ_mat = get(circ, nice = False)
+    circ_mat = get(circ, types = 'statevector', nice = False)
     
     try:
         aae(np.abs(correct_mat), np.abs(circ_mat))
