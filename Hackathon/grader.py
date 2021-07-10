@@ -40,7 +40,7 @@ def grader2(circ):
                             [0],
                             [0]])
     
-    circ_mat = get(circ, types = 'statevector', nice = False)
+    circ_mat = get(circ, types = 'statevector', nice = False).reshape(8, 1)
     
     try:
         aae(np.abs(correct_mat), np.abs(circ_mat))
