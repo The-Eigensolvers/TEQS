@@ -115,15 +115,11 @@ def grader4a(circ):
     except:
         return 'Circuit is not correct'
     else:
-        try:
-            no_ccx = circ.count_ops()['ccx']
-        except:
-            no_ccx = 0
-        no_cx = circ.count_ops()['cx']
         circ = transpile(circ, basis_gates = ['u', 'cx'])
+        no_cx = circ.count_ops()['cx']
         no_u = circ.count_ops()['u']
 
-        cost = 60*no_ccx + 10*no_cx + no_u
+        cost = 10*no_cx + no_u
         
         print(f"Congratulations \U0001F389! Your answer is correct.  \n\nYour cost is {cost}.\n\nFeel free to submit your answer")
         
@@ -144,15 +140,11 @@ def grader4b(circ):
     except:
         return 'Circuit is not correct'
     else:
-        try:
-            no_ccx = circ.count_ops()['ccx']
-        except:
-            no_ccx = 0
-        no_cx = circ.count_ops()['cx']
         circ = transpile(circ, basis_gates = ['u', 'cx'])
+        no_cx = circ.count_ops()['cx']
         no_u = circ.count_ops()['u']
 
-        cost = 60*no_ccx + 10*no_cx + no_u
+        cost = 10*no_cx + no_u
         
         print(f"Congratulations \U0001F389! Your answer is correct.  \n\nYour cost is {cost}.\n\nFeel free to submit your answer")
         
@@ -173,14 +165,10 @@ def grader4c(circ):
     except:
         return 'Circuit is not correct'
     else:
-        try:
-            no_ccx = circ.count_ops()['ccx']
-        except:
-            no_ccx = 0
-        no_cx = circ.count_ops()['cx']
         circ = transpile(circ, basis_gates = ['u', 'cx'])
+        no_cx = circ.count_ops()['cx']
         no_u = circ.count_ops()['u']
 
-        cost = 60*no_ccx + 10*no_cx + no_u
+        cost = 10*no_cx + no_u
         
         print(f"Congratulations \U0001F389! Your answer is correct.  \n\nYour cost is {cost}.\n\nFeel free to submit your answer")
