@@ -43,7 +43,7 @@ def grader2(circ):
     circ_mat = get(circ, nice = False)
     
     try:
-        aae(correct_mat, circ_mat)
+        aae(np.abs(correct_mat), np.abs(circ_mat))
     except:
         return 'Circuit is not correct'
     else:
