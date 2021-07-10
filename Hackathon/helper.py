@@ -16,6 +16,11 @@ from qiskit.tools.visualization import plot_histogram, plot_state_city, plot_blo
 # Almost Equal
 from numpy.testing import assert_almost_equal as aae
 
+from sympy import Matrix, init_printing
+
+def view(mat, rounding = 10):
+    display(Matrix(np.round(mat, rounding)))
+
 ### Linear Algebra Tools
 
 # Matrices
